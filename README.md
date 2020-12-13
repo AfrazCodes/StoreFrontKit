@@ -84,6 +84,10 @@ self?.navigationController?.pushViewController(vc, animated: true)
 
 In the above example, we create a single item (non-consumable) store front VC and push it. You'll also note that it takes a callback completion block. This block relays successful in app purchase transactions.
 
+### More information
+
+Check out the example app target included in this repo.
+
 ## Contributing
 
 Contribution to this framework is not just welcomed, it is encouraged! Feel free to open Pull Requests or issues for feature requests and bug fixes. The ask is to follow a few rules:
