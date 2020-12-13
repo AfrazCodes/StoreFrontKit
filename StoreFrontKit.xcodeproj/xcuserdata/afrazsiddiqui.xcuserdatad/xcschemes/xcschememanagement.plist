@@ -4,10 +4,38 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
+		<key>StoreFrontExampleApp 1.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
+		<key>StoreFrontExampleApp.xcscheme_^#shared#^_</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>1</integer>
+		</dict>
 		<key>StoreFrontKit.xcscheme_^#shared#^_</key>
 		<dict>
 			<key>orderHint</key>
 			<integer>0</integer>
+		</dict>
+	</dict>
+	<key>SuppressBuildableAutocreation</key>
+	<dict>
+		<key>8383A02C25867AA3008188A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8383A03525867AA3008188A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>8383A04D25867AD2008188A2</key>
+		<dict>
+			<key>primary</key>
+			<true/>
 		</dict>
 	</dict>
 </dict>

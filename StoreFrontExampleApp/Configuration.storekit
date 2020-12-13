@@ -1,0 +1,141 @@
+{
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "A88589E8",
+      "localizations" : [
+        {
+          "description" : "Remove all banner and interstitial ads in app",
+          "displayName" : "Remove Ads",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.removeAds",
+      "referenceName" : "Remove Ads",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "5.99",
+      "familyShareable" : false,
+      "internalID" : "D5B65743",
+      "localizations" : [
+        {
+          "description" : "Premium upgrade and unlock features.",
+          "displayName" : "Premium",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.premium",
+      "referenceName" : "Premium",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "2.99",
+      "familyShareable" : false,
+      "internalID" : "85089459",
+      "localizations" : [
+        {
+          "description" : "Get all stickers",
+          "displayName" : "Stickers",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.stickers",
+      "referenceName" : "Stickers",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "0.99",
+      "familyShareable" : false,
+      "internalID" : "6AC0EAB5",
+      "localizations" : [
+        {
+          "description" : "Get bag of 50 coins",
+          "displayName" : "50 Coins",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.coins",
+      "referenceName" : "50 Coins",
+      "type" : "NonConsumable"
+    },
+    {
+      "displayPrice" : "29.99",
+      "familyShareable" : false,
+      "internalID" : "C47FDB2F",
+      "localizations" : [
+        {
+          "description" : "Yearly subscription",
+          "displayName" : "Yearly Plan",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "com.example.subscription.annual",
+      "referenceName" : "Yearly",
+      "type" : "NonConsumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+    {
+      "id" : "5AB2AE7B",
+      "localizations" : [
+
+      ],
+      "name" : "Subscription Group",
+      "subscriptions" : [
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "4.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "BC10FBC6",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "Monthly subscription",
+              "displayName" : "Monthly",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.example.subscription.monthly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Monthly",
+          "subscriptionGroupID" : "5AB2AE7B",
+          "type" : "RecurringSubscription"
+        },
+        {
+          "adHocOffers" : [
+
+          ],
+          "displayPrice" : "9.99",
+          "familyShareable" : false,
+          "groupNumber" : 1,
+          "internalID" : "3BE28464",
+          "introductoryOffer" : null,
+          "localizations" : [
+            {
+              "description" : "3 month subscription",
+              "displayName" : "Quarterly Subscription",
+              "locale" : "en_US"
+            }
+          ],
+          "productID" : "com.example.subscription.quarterly",
+          "recurringSubscriptionPeriod" : "P1M",
+          "referenceName" : "Quarterly",
+          "subscriptionGroupID" : "5AB2AE7B",
+          "type" : "RecurringSubscription"
+        }
+      ]
+    }
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 0
+  }
+}
