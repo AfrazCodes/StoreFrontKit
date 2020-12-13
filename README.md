@@ -1,6 +1,6 @@
 # StoreFrontKit
 
-![StoreFrontKit Logo](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/store_front_kit.png.png)
+![StoreFrontKit Logo](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/store_front_kit.png)
 
 ## Introduction
 
