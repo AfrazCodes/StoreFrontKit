@@ -2,6 +2,8 @@
 
 ![StoreFrontKit Logo](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/store_front_kit.png)
 
+![StoreFrontKit Examples](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/header.png)
+
 ## Introduction
 
 Apple's StoreKit framework provides concise and clean APIs to interface with the App Store for in app purchases. However, a notable omission is a UI component to present in app purchases to users. The reasoning behind this is most likely that every app looks and feels different.
