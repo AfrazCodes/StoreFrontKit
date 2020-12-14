@@ -1,5 +1,10 @@
 # StoreFrontKit
 
+[![CI Status](https://img.shields.io/travis/AfrazCodes/StoreFrontKit.svg?style=flat)](https://travis-ci.org/AfrazCodes/StoreFrontKit)
+[![Version](https://img.shields.io/cocoapods/v/StoreFrontKit.svg?style=flat)](https://cocoapods.org/pods/StoreFrontKit)
+[![License](https://img.shields.io/cocoapods/l/StoreFrontKit.svg?style=flat)](https://cocoapods.org/pods/StoreFrontKit)
+[![Platform](https://img.shields.io/cocoapods/p/StoreFrontKit.svg?style=flat)](https://cocoapods.org/pods/StoreFrontKit)
+
 ![StoreFrontKit Logo](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/store_front_kit.png)
 
 ![StoreFrontKit Examples](https://raw.githubusercontent.com/AfrazCodes/StoreFrontKit/master/header.png)
